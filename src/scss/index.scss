@@ -1,0 +1,8 @@
+@charset 'UTF-8';
+
+//base
+@import './reset/reset.scss';
+@import './helper/mixin.scss';
+
+//component
+@import '../component/app/App.scss';
